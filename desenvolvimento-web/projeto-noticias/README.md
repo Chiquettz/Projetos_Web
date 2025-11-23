@@ -8,7 +8,7 @@ Este projeto foi desenvolvido aplicando **HTML** e **CSS**, com foco em estrutur
 ## 🌐 Demonstração
 
 🔗 **Acesse o site:**  
-https://chiquettz.github.io/desenvolvimento-web/corinthians-news/
+https://chiquettz.github.io/desenvolvimento-web/projeto-noticias/
 
 ---
 
