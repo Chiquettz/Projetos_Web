@@ -17,7 +17,7 @@ Explore os projetos clicando nos links abaixo:
 📰 Um site com cards de notícias e tabelas informativas sobre o Sport Club Corinthians Paulista.
 
 ➡️ Acesse o projeto:
-https://chiquettz.github.io/desenvolvimento-web/projeto-noticias/
+https://chiquettz.github.io/Projetos_Web/desenvolvimento-web/projeto-noticias/
 
 Tecnologias utilizadas:
 HTML • CSS
@@ -32,7 +32,7 @@ Organização de conteúdo, estilização visual, responsividade e estruturaçã
 🛒 Uma réplica da página principal da Amazon, com layout responsivo e construído principalmente com Bootstrap.
 
 ➡️ Acesse o projeto:
-https://chiquettz.github.io/desenvolvimento-web/projeto-amazon/
+https://chiquettz.github.io/Projetos_Web/desenvolvimento-web/projeto-amazon/
 
 Tecnologias utilizadas:
 HTML • Bootstrap • Mobile-first design
@@ -47,7 +47,7 @@ Grid do Bootstrap, criação de componentes reutilizáveis, carrosséis, navega�
 📝 Aplicação funcional que permite criar listas de tarefas com categorias e itens clicáveis.
 
 ➡️ Acesse o projeto:
-https://chiquettz.github.io/desenvolvimento-web/projeto-lista/
+https://chiquettz.github.io/Projetos_Web/desenvolvimento-web/projeto-lista/
 
 Tecnologias utilizadas:
 HTML • Bootstrap • JavaScript
