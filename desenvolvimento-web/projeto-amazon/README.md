@@ -8,7 +8,7 @@ O objetivo foi entender como grandes sites estruturam seus componentes e apresen
 ## 🌐 Demonstração
 
 🔗 **Acesse o site online:**  
-https://chiquettz.github.io/desenvolvimento-web/mini-amazon/
+https://chiquettz.github.io/desenvolvimento-web/projeto-amazon/
 
 ---
 
