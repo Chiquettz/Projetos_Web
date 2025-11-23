@@ -8,7 +8,7 @@ Foi desenvolvido usando **HTML, Bootstrap e JavaScript**, aplicando conceitos fu
 ## 🌐 Demonstração
 
 🔗 **Acesse o site:**  
-https://chiquettz.github.io/desenvolvimento-web/projeto-lista/
+https://chiquettz.github.io/Projetos_Web/desenvolvimento-web/projeto-lista/
 
 ---
 
